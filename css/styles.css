@@ -9,23 +9,64 @@ body {
     width: 300px;
 }
  
-.sideBar {
+/*.sideBar {
     margin-top: 30px;
     position: relative;
     top:-350px;
-    background-color: #FEFEF2;
+} 
+.sideBar a{
+    color: green;
+    font-size: 30px;
+
+}*/
+.sideBar a:hover{
+    color: white;
 }
+
+.sideBar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+.sideBar a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+
+
+
 
 .jumbotron {
     height: 300px;
     position: relative;
     left: 350px;
     text-align: center;
-    background-color: lavender;
+    background-color: black;
     
 }
 
 .container {
     float: left;
+}
+
+#github {
+    text-align: center;
+}
+
+.projects {
+    position: relative;
+    left: 350px;
+    text-align: center;
+    background-color: black;
 }
 
