@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a portfolio page containing information about previous projects that Mikah completed during the first week of Epicodus. Each project shown includes a short description, languages used, and a link to the project's github repository. Also included is a link to a biography page about Mikah._
+_This is a portfolio page containing information about previous projects that Mikah completed during the first week of Epicodus. Each project shown includes a short description, languages used, and a link to the project's github repository. Also included is a link to a biography page about Mikah. To view go to this link: https://mikah-mathews.github.io/Portfolio-Landing-Page/index.html_
 
 ## Setup/Installation Requirements
 
