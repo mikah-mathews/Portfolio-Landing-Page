@@ -78,3 +78,8 @@ body {
 .repo-links:hover {
     color: lightgreen;
 }
+
+img {
+    float: left;
+    padding: 10px;
+}
